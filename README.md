@@ -1,2 +1,3 @@
-# email_templates
-Email templates examples
+# Email templates examples
+
+A set of email templates examples to use in QuickBlox dashboard. 
